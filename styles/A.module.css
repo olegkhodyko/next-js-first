@@ -1,0 +1,10 @@
+.link {
+  text-decoration: none;
+  margin: 10px;
+  color: #000;
+  font-size: 22px;
+  font-weight: 300;
+}
+  .link:hover {
+    font-weight: 400;
+  }
